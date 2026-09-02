@@ -1,0 +1,15 @@
+port:
+port=8080
+=valor
+host=localhost
+user=admin
+host
+user=
+empty=
+debug=true
+nombre sin igual
+path==/tmp
+
+key value=bad
+log_level=info
+
